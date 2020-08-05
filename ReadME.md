@@ -14,13 +14,17 @@ passing of the parameters is as the following:
 # compression:
 
 source_file : whole path + .txt   (if the file is in the project directory, mentioning the name only is enough)
+
 target file : whole path + .huf   (if the file is in the project directory, mentioning the name only is enough)
+
 
 
 # Decompression:
 
 source_file : whole path + .huf   (if the file is in the project directory, mentioning the name only is enough)
+
 target file : whole path + .txt   (if the file is in the project directory, mentioning the name only is enough)
+
 
 # implementation details:
 
