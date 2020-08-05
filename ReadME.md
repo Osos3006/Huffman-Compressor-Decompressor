@@ -1,27 +1,28 @@
 ----------------------HUFFMAN COMPRESSOR/DECOMPRESSOR--------------------------
+
 all copyrights goes to © Mohammed Osama Abuelwafa
 
 A c++ object oriented code that compresses a text file consisting of 128-ascii characters and is able to decompress it.
 
-#HOW To use?
+# HOW TO USE?
 
 - the console prompts to the user inputting 1 for compression and 2 for decompression.
 in case of compression: The Program calculates the compression ratio and the coding efficency and outputs them in the console.
 
 passing of the parameters is as the following:
 
-compression:
+# compression:
 
 source_file : whole path + .txt   (if the file is in the project directory, mentioning the name only is enough)
 target file : whole path + .huf   (if the file is in the project directory, mentioning the name only is enough)
 
 
-Decompression:
+# Decompression:
 
 source_file : whole path + .huf   (if the file is in the project directory, mentioning the name only is enough)
 target file : whole path + .txt   (if the file is in the project directory, mentioning the name only is enough)
 
-#implementation details:
+# implementation details:
 
 compression:
 
